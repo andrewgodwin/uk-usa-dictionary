@@ -14,7 +14,7 @@ Candyfloss | Cotton candy |
 Chocolate bar | Candy bar |
 Courgette | Zucchini |
 Crisps | **Chips** | The US also seems to have only 4ish flavours, too.
-? | Half-and-half | Half milk, half light cream. Do not confuse with skim milk.
+? | Half-and-half | Half milk, half light cream. Do not confuse with semi-skimmed milk.
 Ice Lolly | Popsicle |
 Jam | Jelly |
 Macaroni cheese | Mac and cheese |
@@ -23,6 +23,7 @@ Porridge | (Cooked) Oatmeal |
 Prawn | Small shrimp | Don't even ask about prawn cocktail crisps.
 Profiterole | Cream puff | Also called profiterole in the US.
 **Rapeseed oil** | Canola oil | Can sound very bad out of context in the US.
+Semi-skimmed milk | Reduced fat (2%) milk | The US also has a 1% fat milk for which there is no traditional UK equivalent.
 Streaky bacon | **Bacon** | The overwhelmingly dominant kind in the US.
 Sweets | Candy |
 Treacle | Molasses |
