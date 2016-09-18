@@ -7,6 +7,8 @@ by accident.
 
 * Beaver: A vagina.
 * Hooters: Breasts, in case the restuarant chain didn't make it obvious enough.
+* Knocked up: To be pregnant. 
+* Pecker: A penis.
 
 ## British English
 
@@ -14,3 +16,4 @@ by accident.
 * Fanny: A vagina. *Fanny pack* can be particularly funny.
 * Knob: A penis.
 * Shag: To have sex.
+* Spotted dick: A desert.
