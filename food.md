@@ -13,6 +13,7 @@ Courgette | Zucchini |
 Crisps | **Chips** | The US also seems to have only 4ish flavours, too.
 Ice Lolly | Popsicle |
 Jam | Jelly |
+Mixed spice | Baking spice | Or maybe even pumpkin spice
 Porridge | (Cooked) Oatmeal |
 Prawn | Small shrimp | Don't even ask about prawn cocktail crisps.
 Streaky bacon | **Bacon** | The overwhelmingly dominant kind in the US.
@@ -26,13 +27,14 @@ White sauce | **Gravy** | Gravy in the US is a more general term for anything gl
 UK  | US  | Notes
 --- | --- | ---
 **Cider** | Hard cider | Alcoholic, fermented apple juice.
-Apple juice (unfiltered) | **Cider** | Non-alcoholic.
+Apple juice (unfiltered) | **Cider** | Non-alcoholic, often spiced.
 **Lemonade** | Sprite | Sprite seems to be a generic enough term that you'll get what you want even if it's not actually Sprite.
 Strong beer | Malt Liquor | Usually 6% or above.
 Traditional Lemonade | **Lemonade** | Generally not quite as sugary as the UK version, but it depends on region.
 
 Notes:
 * A UK pint is about a fifth larger than a US pint.
+* US beer is generally slightly stronger than the UK equivalents, sometimes even the same brand.
 
 
 ## Tools and implements
