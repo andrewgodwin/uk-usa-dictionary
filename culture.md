@@ -16,6 +16,7 @@ UK  | US  | Notes
 A&E | ER  |
 Doctor's surgery | Doctor's office |
 Flu jab | Flu shot | Given to a lot more people in the US.
+Paracetamol | Acetaminophen | Yes, these are exactly the same thing.
 Plaster | Band-aid |
 
 Notes:
@@ -26,9 +27,9 @@ Notes:
 
 UK  | US  | Notes
 --- | --- | ---
-Creche/Nursery school | Kindergarten | UK generally starts at earlier ages.
+Creche/Nursery school | Pre-school/Pre-K (up to 4 years old), Kindergarten (4-5 years old) | 
 Primary school | Elementary school |
-Secondary school | High school |
+Secondary school | Middle school (grades 7 & 8), High school (grades 9 - 12) |
 Year | Grade | Grade is UK school year minus one, e.g. Grade 9 = Year 10.
 
 
