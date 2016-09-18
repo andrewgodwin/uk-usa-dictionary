@@ -4,8 +4,15 @@
 
 UK  | US  | Notes
 --- | --- | ---
-Biscuit | Cookie | Cookie in the US is much more general than in the UK, covering pretty much anything you might call a biscuit.
-? | Biscuit | A scone-like savoury quickbread, commonly used as a side dish at breakfast.
+**Biscuit** | Cookie | Cookie in the US is much more general than in the UK, covering pretty much anything you might call a biscuit.
+? | **Biscuit** | A scone-like savoury quickbread, commonly used as a side dish at breakfast.
+
+## Drink
+
+UK  | US  | Notes
+--- | --- | ---
+**Lemonade** | Sprite | Sprite seems to be a generic enough term that you'll get what you want even if it's not actually Sprite.
+Traditional Lemonade | **Lemonade** | Generally not quite as sugary as the UK version, but it depends on region.
 
 ## Ingredients
 
