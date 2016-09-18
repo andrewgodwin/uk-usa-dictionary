@@ -5,17 +5,17 @@
 UK  | US  | Notes
 --- | --- | ---
 Aubergine | Eggplant |
-**Bacon** | Back bacon | Almost impossible to find. "Canadian bacon" is somewhat similar.
+**Bacon** | Back bacon | Almost impossible to find in the US. "Canadian bacon" is somewhat similar.
 **Biscuit** | Cookie | Cookie in the US is much more general than in the UK, covering pretty much anything you might call a biscuit.
 ? | **Biscuit** | A scone-like savoury quickbread, commonly used as a side dish at breakfast.
 **Chips** | French/Steak fries | French fries are thin; steak fries are thick.
 Courgette | Zucchini |
-Crisps | **Chips** | The US also seems to have only 4 boring flavours, too.
+Crisps | **Chips** | The US also seems to have only 4ish flavours, too.
 Ice Lolly | Popsicle |
 Jam | Jelly |
 Porridge | (Cooked) Oatmeal |
 Prawn | Small shrimp | Don't even ask about prawn cocktail crisps.
-Streaky bacon | **Bacon** | The overwhelmingly dominant kind in the US
+Streaky bacon | **Bacon** | The overwhelmingly dominant kind in the US.
 Sweets | Candy |
 Tomato sauce | Ketchup | Ketchup is used in the UK too.
 White sauce | **Gravy** | Gravy in the US is a more general term for anything gloopy you pour on food.
@@ -25,10 +25,10 @@ White sauce | **Gravy** | Gravy in the US is a more general term for anything gl
 
 UK  | US  | Notes
 --- | --- | ---
-**Cider** | Hard cider | Alcoholic, fermented apple juice
-Apple juice (unfiltered) | **Cider** |
+**Cider** | Hard cider | Alcoholic, fermented apple juice.
+Apple juice (unfiltered) | **Cider** | Non-alcoholic.
 **Lemonade** | Sprite | Sprite seems to be a generic enough term that you'll get what you want even if it's not actually Sprite.
-Strong beer | Malt Liquor | Usually 6% or above
+Strong beer | Malt Liquor | Usually 6% or above.
 Traditional Lemonade | **Lemonade** | Generally not quite as sugary as the UK version, but it depends on region.
 
 Notes:

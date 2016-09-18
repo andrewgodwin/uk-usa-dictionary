@@ -19,7 +19,7 @@ Jumper | Sweater |
 Plaid/tartan | Flannel |
 Rucksack | Backpack |
 Trousers | **Pants** | Much sniggering to be had here.
-Vest | Undershirt |
+**Vest** | **Undershirt** |
 Waistcoat | Vest |
 
 
@@ -34,6 +34,6 @@ Torch | Flashlight |
 
 UK  | US  | Notes
 --- | --- | ---
-**Dummy** | Pacifier | **Dummy** in the US means a human-shaped thing.
+**Dummy** | Pacifier | **Dummy** in the US means an artifical, life-size human figure.
 Nappy | Diaper |
 Pram | Stroller |
