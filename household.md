@@ -19,6 +19,8 @@ Jumper | Sweater |
 Plaid/tartan | Flannel |
 Rucksack | Backpack |
 Trousers | **Pants** | Much sniggering to be had here.
+Vest | Undershirt |
+Waistcoat | Vest |
 
 
 ## Common items
@@ -33,4 +35,5 @@ Torch | Flashlight |
 UK  | US  | Notes
 --- | --- | ---
 **Dummy** | Pacifier | **Dummy** in the US means a human-shaped thing.
+Nappy | Diaper |
 Pram | Stroller |
