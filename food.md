@@ -19,12 +19,14 @@ Cornflour | Cornstarch | There's also a "cornflour" in the US, but it's not what
 Courgette | Zucchini |
 Crisps | **Chips** | The US also seems to have only 4ish flavours, too.
 Double cream | Heavy (whipping) cream |
-Gelatine leaves (6) | Gelatin powder sachet (7g) | You'll also need to pre-soak the powder first and dissolve it.
+Gelatine leaves | Gelatin powder | 6 leaves = 7g of powder (one standard sachet). You'll also need to pre-soak the powder first and dissolve it.
 ? | Half-and-half | Half milk, half light cream. Do not confuse with semi-skimmed milk.
 Ice Lolly | Popsicle |
+Icing | Frosting |
 Icing sugar | Powdered/Confectioner's sugar |
 Jam | Jelly |
 Macaroni cheese | Mac and cheese |
+Mangetout | Snow pea |
 Mixed spice | Baking spice | Or maybe even pumpkin spice.
 Porridge | (Cooked) Oatmeal |
 Prawn | Small shrimp | Don't even ask about prawn cocktail crisps.
@@ -65,9 +67,13 @@ Notes:
 UK  | US  | Notes
 --- | --- | ---
 Bain-marie | Double boiler |
+Baking tray | Baking pan/Cookie sheet |
+Clingfilm | Plastic/Saran wrap |
 Cutlery | Silverware | In the US, can mean "knives".
+Greaseproof paper | Parchment paper | US wax paper is similar but not oven safe (it will smoke)
 Grill | Broiler |
 Hob | Stovetop/Hotplate |
+Tinned | Canned |
 
 Notes:
 * A lot of US recipes will measure in cups. 1 US cup is 250ml.
