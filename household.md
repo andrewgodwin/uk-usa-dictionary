@@ -19,8 +19,8 @@ Jumper | Sweater |
 Plaid/tartan | Flannel |
 Rucksack | Backpack |
 Trousers | **Pants** | Much sniggering to be had here.
-**Vest** | **Undershirt** |
-Waistcoat | Vest |
+**Vest** | Undershirt |
+Waistcoat | **Vest** |
 
 
 ## Common items
