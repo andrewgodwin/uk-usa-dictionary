@@ -16,4 +16,4 @@ by accident.
 * Fanny: A vagina. *Fanny pack* can be particularly funny.
 * Knob: A penis.
 * Shag: To have sex.
-* Spotted dick: A desert.
+* Spotted dick: A dessert.
