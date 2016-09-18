@@ -2,7 +2,7 @@
 
 A UK-USA dictionary of common terms, phrases and cultural knowledge that it's helpful to know as an expat.
 
-Split up into areas of interest to try and help keep things organised.
+Split up into areas of interest to try and help keep things organised. If the same word or phrase is used in both countries and has different meanings, it's **bolded** to highlight that it's a potential pitfall, especially if you're ordering food.
 
 ## Contributing
 
