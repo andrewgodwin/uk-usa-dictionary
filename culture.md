@@ -5,6 +5,7 @@
 UK  | US  | Notes
 --- | --- | ---
 Bank holiday | **Holiday** | They're differently spaced throughout the year, too.
+Fortnight | Two weeks | Be warned that "biweekly" can mean fortnightly *or* twice a week.
 **Holiday** | Vacation | Often way less of it in the US.
 
 
@@ -13,7 +14,9 @@ Bank holiday | **Holiday** | They're differently spaced throughout the year, too
 UK  | US  | Notes
 --- | --- | ---
 A&E | ER  |
+Doctor's surgery | Doctor's office |
 Flu jab | Flu shot | Given to a lot more people in the US.
+Plaster | Band-aid |
 
 Notes:
 * Intensive care in the US is about 10x larger than in the UK, and so a bit less specialised.

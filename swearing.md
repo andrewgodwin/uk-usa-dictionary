@@ -13,3 +13,4 @@ by accident.
 * Fag/Faggot: Derogatory slang for gay people.
 * Fanny: A vagina. *Fanny pack* can be particularly funny.
 * Knob: A penis.
+* Shag: To have sex.

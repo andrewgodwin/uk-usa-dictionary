@@ -12,11 +12,13 @@ Aubergine | Eggplant |
 Courgette | Zucchini |
 Crisps | **Chips** | The US also seems to have only 4 boring flavours, too.
 Ice Lolly | Popsicle |
+Jam | Jelly |
 Porridge | (Cooked) Oatmeal |
 Prawn | Small shrimp | Don't even ask about prawn cocktail crisps.
 Streaky bacon | **Bacon** | The overwhelmingly dominant kind in the US
 Sweets | Candy |
-Toffee | Taffy |
+Tomato sauce | Ketchup | Ketchup is used in the UK too.
+White sauce | **Gravy** | Gravy in the US is a more general term for anything gloopy you pour on food.
 
 
 ## Drink

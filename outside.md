@@ -43,6 +43,7 @@ Boot | Trunk |
 **Cable car** | Aerial tramway | Fortunately the two kinds of cable cars are often very far from each other.
 Caravan | Travel trailer/RV | RVs are bigger and self-powered.
 Carriage | Car | The things trains are made of.
+Lorry | Truck/Semi | Depends on the size of the vehicle as to which is used.
 Motorbike | Motorcycle | Though most people seem to get what you mean with either.
 Points | Switch | The things that change what tracks things run on.
 Railway | Railroad |
