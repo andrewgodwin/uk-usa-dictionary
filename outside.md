@@ -41,7 +41,7 @@ UK  | US  | Notes
 Bonnet | Hood |
 Boot | Trunk |
 **Cable car** | Aerial tramway | Fortunately the two kinds of cable cars are often very far from each other.
-Caravan | Travel trailer/RV | RVs are bigger and self-powered.
+Caravan | Travel trailer/RV/Winnebago | RVs are bigger and self-powered.
 Carriage | Car | The things trains are made of.
 Lorry | Truck/Semi | Depends on the size of the vehicle as to which is used.
 Motorbike | Motorcycle | Though most people seem to get what you mean with either.
@@ -57,6 +57,7 @@ UK  | US  | Notes
 --- | --- | ---
 Car park | Parking lot |
 Central reservation | Median |
+Diagonally opposite | Catty-corner/kitty-corner/cater-corner | Typically catty-corner in the South, kitty-corner elsewhere
 Give Way | Yield |
 Junction | Intersection |
 Motorway | Freeway/Interstate |
