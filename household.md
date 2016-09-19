@@ -4,6 +4,7 @@
 
 UK  | US  | Notes
 --- | --- | ---
+Bath | Tub |
 Bin | Trashcan |
 Socket | Outlet |
 Tap | Faucet |
