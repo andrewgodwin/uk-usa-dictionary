@@ -67,6 +67,7 @@ Service road | Frontage road | Road running parallel to a freeway with houses/sh
 Slip road | On/Off-ramp |
 Tarmac | **Pavement** | It's still called tarmac in airports, it seems.
 Traffic cone | Pylon |
+Zebra Crossing | Crosswalk |
 
 Notes:
 * Almost no freeway in the US has service stations. You're expected to pull off
