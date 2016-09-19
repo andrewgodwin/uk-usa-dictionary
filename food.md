@@ -24,7 +24,8 @@ Gelatine leaves | Gelatin powder | 6 leaves = 7g of powder (one standard sachet)
 Ice Lolly | Popsicle |
 Icing | Frosting |
 Icing sugar | Powdered/Confectioner's sugar |
-Jam | Jelly |
+Jam | **Jelly** |
+**Jelly** | Jello |
 Macaroni cheese | Mac and cheese |
 Mangetout | Snow pea |
 Mixed spice | Baking spice | Or maybe even pumpkin spice.
