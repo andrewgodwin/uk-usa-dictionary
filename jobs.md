@@ -1,5 +1,11 @@
 # Jobs
 
+## General
+
+UK  | US  | Notes
+--- | --- | ---
+Trade union | Labor union |
+
 ## In the Office
 
 UK  | US  | Notes
