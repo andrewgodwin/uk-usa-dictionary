@@ -48,5 +48,7 @@ Pram | Stroller |
 
 UK  | US  | Notes
 --- | --- | ---
+Merry-go-round | Carousel |
 Noughts and crosses | Tic Tac Toe |
 Snakes and ladders | Chutes and ladders
+Table football | Foosball |
