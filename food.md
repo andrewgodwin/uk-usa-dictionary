@@ -66,6 +66,7 @@ ID'ed | Carded | When you get your ID checked buying alcohol.
 **Lemonade** | Sprite | Sprite seems to be a generic enough term that you'll get what you want even if it's not actually Sprite.
 Off-licence | Liquor store |
 Predrinking | Pregaming |
+Stag / hen night | Bachelor / bachelorette party |
 Strong beer | Malt Liquor | Usually 6% or above.
 Traditional Lemonade | **Lemonade** | Generally not quite as sugary as the UK version, but it depends on region.
 
