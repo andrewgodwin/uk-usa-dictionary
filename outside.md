@@ -11,6 +11,7 @@ UK  | US  | Notes
 **Caretaker** | Janitor | Caretaker in the US often refers to someone looking after a person or empty buildings
 Flat | Apartment/Condo | Apartments are often worse quality than condos in the US.
 Lift | Elevator | Everyone seems to know this one, though.
+Refurbished | Remodeled |
 Semi-detached | Duplex | Duplex can also refer to 2 apartments stacked in a small house.
 Shop | Store | In the US, *shop* either means a machine shop or small store.
 **Subway** | Underpass | Specifically a pedestrian underpass.
