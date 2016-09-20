@@ -16,6 +16,7 @@ UK  | US  | Notes
 A&E | ER  |
 Doctor's surgery | Doctor's office |
 Flu jab | Flu shot | Given to a lot more people in the US.
+Glandular fever | Mono |
 Paracetamol | Acetaminophen | Yes, these are exactly the same thing.
 Plaster | Band-aid |
 
