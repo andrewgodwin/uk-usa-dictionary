@@ -12,6 +12,7 @@ Beetroot | Beet |
 ? | **Biscuit** | A scone-like savoury quickbread, commonly used as a side dish at breakfast.
 Candyfloss | Cotton candy |
 Caster sugar | Superfine sugar |
+Chickpeas | Garbanzo beans | Chickpeas also sometimes used in the US.
 **Chips** | French/Steak fries | French fries are thin; steak fries are thick.
 Chocolate bar | Candy bar |
 Coriander | Cilantro | But you might find the spice version still called coriander.
