@@ -47,8 +47,10 @@ Lorry | Truck/Semi | Depends on the size of the vehicle as to which is used.
 Motorbike | Motorcycle | Though most people seem to get what you mean with either.
 Points | Switch | The things that change what tracks things run on.
 Railway | Railroad |
+Saloon car | Sedan |
 Tram | Streetcar / Light Rail | Or if you're in San Francisco, also **cable cars**
 Underground / Tube / Metro | **Subway** | It's called the Subway in Glasgow, though.
+Windscreen | Windshield |
 
 
 ## Driving around
@@ -59,6 +61,7 @@ Car park | Parking lot |
 Central reservation | Median |
 Diagonally opposite | Catty-corner/kitty-corner/cater-corner | Typically catty-corner in the South, kitty-corner elsewhere
 Give Way | Yield |
+Hard shoulder | Shoulder |
 Junction | Intersection |
 Motorway | Freeway/Interstate |
 **Pavement** | Sidewalk |
