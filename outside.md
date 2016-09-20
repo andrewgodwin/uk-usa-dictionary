@@ -46,7 +46,9 @@ Carriage | Car | The things trains are made of.
 Lorry | Truck/Semi | Depends on the size of the vehicle as to which is used.
 Motorbike | Motorcycle | Though most people seem to get what you mean with either.
 Points | Switch | The things that change what tracks things run on.
+Public transport | Public transportation |
 Railway | Railroad |
+Rail replacement bus | Bus bridge |
 Saloon car | Sedan |
 Tram | Streetcar / Light Rail | Or if you're in San Francisco, also **cable cars**
 Underground / Tube / Metro | **Subway** | It's called the Subway in Glasgow, though.
@@ -63,6 +65,7 @@ Diagonally opposite | Catty-corner/kitty-corner/cater-corner | Typically catty-c
 Give Way | Yield |
 Hard shoulder | Shoulder |
 Junction | Intersection |
+Learner driver | Student driver |
 Motorway | Freeway/Interstate |
 **Pavement** | Sidewalk |
 Roundabout | Traffic circle | Only in some places, others just use "roundabout"
