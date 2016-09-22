@@ -11,6 +11,7 @@ UK  | US  | Notes
 **Caretaker** | Janitor | Caretaker in the US often refers to someone looking after a person or empty buildings
 Flat | Apartment/Condo | Apartments are often worse quality than condos in the US.
 Lift | Elevator | Everyone seems to know this one, though.
+Refurbished | Remodeled |
 Semi-detached | Duplex | Duplex can also refer to 2 apartments stacked in a small house.
 Shop | Store | In the US, *shop* either means a machine shop or small store.
 **Subway** | Underpass | Specifically a pedestrian underpass.
@@ -46,9 +47,13 @@ Carriage | Car | The things trains are made of.
 Lorry | Truck/Semi | Depends on the size of the vehicle as to which is used.
 Motorbike | Motorcycle | Though most people seem to get what you mean with either.
 Points | Switch | The things that change what tracks things run on.
+Public transport | Public transportation |
 Railway | Railroad |
+Rail replacement bus | Bus bridge |
+Saloon car | Sedan |
 Tram | Streetcar / Light Rail | Or if you're in San Francisco, also **cable cars**
 Underground / Tube / Metro | **Subway** | It's called the Subway in Glasgow, though.
+Windscreen | Windshield |
 
 
 ## Driving around
@@ -59,7 +64,9 @@ Car park | Parking lot |
 Central reservation | Median |
 Diagonally opposite | Catty-corner/kitty-corner/cater-corner | Typically catty-corner in the South, kitty-corner elsewhere
 Give Way | Yield |
+Hard shoulder | Shoulder |
 Junction | Intersection |
+Learner driver | Student driver |
 Motorway | Freeway/Interstate |
 **Pavement** | Sidewalk |
 Roundabout | Traffic circle | Only in some places, others just use "roundabout"

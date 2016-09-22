@@ -19,6 +19,7 @@ Jumper | Sweater |
 **Pants** | Underwear |
 Plaid/tartan | Flannel |
 Rucksack | Backpack |
+Trainers | Sneakers |
 Trousers | **Pants** | Much sniggering to be had here.
 **Vest** | Undershirt |
 Waistcoat | **Vest** |
@@ -28,8 +29,10 @@ Waistcoat | **Vest** |
 
 UK  | US  | Notes
 --- | --- | ---
+Duvet | Comforter |
 Torch | Flashlight |
 Spanner | Wrench |
+Washing-up liquid | Dish soap |
 
 
 ## Childcare
@@ -39,3 +42,13 @@ UK  | US  | Notes
 **Dummy** | Pacifier | **Dummy** in the US means an artifical, life-size human figure.
 Nappy | Diaper |
 Pram | Stroller |
+
+
+## Toys and games
+
+UK  | US  | Notes
+--- | --- | ---
+Merry-go-round | Carousel |
+Noughts and crosses | Tic Tac Toe |
+Snakes and ladders | Chutes and ladders
+Table football | Foosball |
