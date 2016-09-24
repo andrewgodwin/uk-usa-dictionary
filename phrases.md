@@ -32,6 +32,7 @@ Be very careful saying these in America. Many can be misconstrued.
 * Blighty: The UK, generally in a positive light.
 * Bob's your uncle: To illustrate something is finished with relative ease. *"Just add a dash of cheese and Bob's your uncle!"
 * **Cock up**: Something has gone wrong - a complete shambles.
+* **Cut the cheese**: To literally slice up cheese.
 * Damp squib: Something very unsuccessful, often prefixed with "a bit of a".
 * Dodgy: Wrong, illegal, or just suspicious.
 * Donkey's years: A very long time.
