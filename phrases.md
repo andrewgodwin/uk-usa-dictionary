@@ -6,12 +6,14 @@ Brits generally recognise most American phrases due to media exposure.
 
 * Bail: To leave, often without warning.
 * Bought the farm: Dead.
+* **Cut the cheese**: To fart.
 * For the birds: Unimportant.
 * Going Dutch: Splitting a food bill equally.
 * I could care less: I couldn't care less.
 * John Doe: Joe Bloggs - a generic male name.
 * John Hancock: Someone's signature.
 * Jonesing: Craving or desperate for something.
+* **Making a move**: Romantically approaching someone, often to spend the night with them.
 * Monday morning quarterback: Someone who criticises decisions in hindsight.
 * **Pissed**: Angry.
 * Shoot the breeze: Spend time idly chatting.
@@ -26,7 +28,7 @@ Brits generally recognise most American phrases due to media exposure.
 Be very careful saying these in America. Many can be misconstrued.
 
 * Airing dirty laundry: Discussing private matters in public.
-* Balls up: Same as cock up, something went wrong.
+* **Balls up**: Same as cock up, something went wrong.
 * Blighty: The UK, generally in a positive light.
 * Bob's your uncle: To illustrate something is finished with relative ease. *"Just add a dash of cheese and Bob's your uncle!"
 * **Cock up**: Something has gone wrong - a complete shambles.
@@ -42,6 +44,7 @@ Be very careful saying these in America. Many can be misconstrued.
 * Joe Bloggs: John Doe - a generic male name.
 * Kerfuffle: A fight or argument, but usually not very physical.
 * Knackered: Very tired/exhausted.
+* **Making a move**: To leave somewhere when it's late or you have other things to do.
 * Mate: Friendly greeting/pronoun. Put it where you might put "bro".
 * Peckish: Hungry.
 * **Pissed**: Drunk (sometimes means angry).
