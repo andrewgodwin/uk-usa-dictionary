@@ -4,6 +4,7 @@
 
 UK  | US  | Notes
 --- | --- | ---
+Waste Closet | Bathroom |
 Bath | Tub |
 Bin | Trashcan |
 Socket | Outlet |
