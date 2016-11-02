@@ -4,7 +4,6 @@
 
 UK  | US  | Notes
 --- | --- | ---
-Water Closet/Loo | Bathroom |
 Bath | Tub |
 Bin | Trashcan |
 Socket | Outlet |
