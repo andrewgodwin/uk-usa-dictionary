@@ -11,6 +11,7 @@ by accident, as well as phrases that might sound rude but are perfectly normal.
 * Hooters: Breasts, in case the restaurant chain didn't make it obvious enough.
 * Knocked up: To be pregnant.
 * Pecker: A penis.
+* Pissed: Angry.
 
 ## British English
 
