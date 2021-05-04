@@ -38,6 +38,7 @@ Profiterole | Cream puff | Also called profiterole in the US.
 **Rapeseed oil** | Canola oil | Can sound very bad out of context in the US.
 Rocket | Arugula |
 Semi-skimmed milk | Reduced fat (2%) milk | The US also has a 1% fat milk for which there is no traditional UK equivalent.
+Plain Flour | All-purpose flour |
 Self-raising flour | 150g plain flour + 2tsp baking powder | You can find "self-rising flour" in the US but it has extra salt compared to the UK one, so try to avoid.
 Single cream | Light cream |
 Spring onions | Green onions | Or maybe scallions.
